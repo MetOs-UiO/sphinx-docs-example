@@ -1,45 +1,25 @@
-# Credit and license
+# Credit 
+The documentation on this webpage is made to help users of the clusters offered by [Sigma2](https://www.sigma2.no/) to run and contribute to the development of the [Community Terrestrial Systems Model (CTSM)](https://github.com/ESCOMP/CTSM). 
 
-This material is provided by CodeRefinery under the licenses stated below.
+
+## Credit for the content 
+The information you can find here are maintained by CTSM-Norway and is maintained as a collective effort. People that has contributed to this webpage are (listed in alfabethical order): 
+(fill in your name and link to github profile in alphabetical order)
+
+[![Foo|1%](./img/profile_picture/octocat.png)](https://github.com/sunnivin) Sunniva Indrehus 
+[![Foo|1%](./img/profile_picture/octocat.png)](https://github.com/MetOs-UiO) MetOs-UiO 
+
+[![Foo|1%](./img/profile_picture/octocat.png)](https://github.com/sunnivin) Sunniva Indrehus 
+[![Foo|1%](./img/profile_picture/octocat.png)](https://github.com/MetOs-UiO) MetOs-UiO 
+
+## Credit and license for the template 
+
+This webpage is adapted to CTSM-Norway's needs from the sphinx-lesson maintained and developed by [CodeRefinery](https://coderefinery.org/), and is Copyright (c) CodeRefinery and, is distributed under the following [license](https://creativecommons.org/licenses/by/4.0/),
 
 
-## Website template
+### Website template
 
-The website template is maintained by [CodeRefinery](https://coderefinery.org/)
+The website [template](https://github.com/coderefinery/documentation) is maintained by [CodeRefinery](https://coderefinery.org/)
 and rendered with [sphinx-lesson: structured lessons with Sphinx](https://coderefinery.github.io/sphinx-lesson/).
 
 
-## Instructional material
-
-All CodeRefinery instructional material is made available under the
-[Creative Commons Attribution license (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/).
-The following is a human-readable summary of (and not a substitute for)
-the [full legal text of the CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
-
-You are free:
-
-- to **Share** - copy and redistribute the material in any medium or format
-- to **Adapt** - remix, transform, and build upon the material
-
-for any purpose, even commercially. The licensor cannot revoke these freedoms as long as you follow these license terms:
-
-- **Attribution** - You must give appropriate credit
-  (mentioning that your work is derived from work that is Copyright
-  (c) CodeRefinery and, where practical, linking to
-  <https://coderefinery.org>, provide
-  a [link to the license](https://creativecommons.org/licenses/by/4.0/),
-  and indicate if changes were made. You may do so in any
-  reasonable manner, but not in any way that suggests the licensor
-  endorses you or your use.
-
-**No additional restrictions** - You may not apply legal terms or technological
-measures that legally restrict others from doing anything the license permits.
-With the understanding that:
-
-- You do not have to comply with the license for elements of the material in
-  the public domain or where your use is permitted by an applicable exception
-  or limitation.
-- No warranties are given. The license may not give you all of the
-  permissions necessary for your intended use. For example, other
-  rights such as publicity, privacy, or moral rights may limit how
-  you use the material.
