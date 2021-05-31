@@ -6,11 +6,10 @@ The documentation on this webpage is made to help users of the clusters offered 
 The information you can find here are maintained by CTSM-Norway and is maintained as a collective effort. People that has contributed to this webpage are (listed in alfabethical order): 
 (fill in your name and link to github profile in alphabetical order)
 
-[![Foo|1%](./img/profile_picture/octocat.png)](https://github.com/sunnivin) Sunniva Indrehus 
+
 [![Foo|1%](./img/profile_picture/octocat.png)](https://github.com/MetOs-UiO) MetOs-UiO 
 
 [![Foo|1%](./img/profile_picture/octocat.png)](https://github.com/sunnivin) Sunniva Indrehus 
-[![Foo|1%](./img/profile_picture/octocat.png)](https://github.com/MetOs-UiO) MetOs-UiO 
 
 ## Credit and license for the template 
 
