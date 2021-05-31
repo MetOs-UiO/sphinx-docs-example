@@ -1,8 +1,13 @@
 Code documentation lesson
 =========================
 
+The documentation on this webpage is made to help users of the clusters offered by `Sigma2 <https://www.sigma2.no/>`__ to run and contribute to the development of the `Community Terrestrial Systems Model (CTSM) <https://github.com/ESCOMP/CTSM>`__. 
+
+
 In this lesson we will discuss different solutions for implementing and
 deploying code documentation.
+
+Here we will learn the stuff you normally see. This is more and more. 
 
 We will learn how to build documentation with the
 **documentation generator** `Sphinx <http://www.sphinx-doc.org>`__ (and compare it

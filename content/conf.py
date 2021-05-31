@@ -17,11 +17,11 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Code documentation lesson"
-copyright = "2021, CodeRefinery team"
-author = "CodeRefinery team"
-github_user = "coderefinery"
-github_repo_name = "documentation"  # auto-detected from dirname if blank
+project = "CTSM-Norway"
+copyright = "2021, CTSM-Norway team"
+author = "CTSM-Norway team"
+github_user = "MetOs-UiO"
+github_repo_name = "CTSM-Noray-Docs"  # auto-detected from dirname if blank
 github_version = "main"
 conf_py_path = "/content/" # with leading and trailing slash
 
