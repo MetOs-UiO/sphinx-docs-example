@@ -66,5 +66,4 @@ The approach that we will learn will be transferable to
    :maxdepth: 1
    :caption: Reference
 
-   guide
    license
